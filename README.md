@@ -1,12 +1,14 @@
 Heart Disease Prediction Pipeline ❤️
 
 📖 Overview
+
 This repository contains a complete, end-to-end machine learning project for predicting the presence of heart disease based on the [UCI Heart Disease dataset](https://archive.ics.uci.edu/dataset/45/heart+disease).
 
 The project follows a structured pipeline, from initial data cleaning and exploratory analysis to model training, hyperparameter tuning, and final deployment as an interactive web application using Streamlit.
 
 
 ✨ Project Workflow
+
 The project is broken down into a series of steps, with each step documented in its own Jupyter Notebook:
 
 Data Preprocessing & Cleaning: Loading the dataset, handling missing values, performing data type conversions, and encoding categorical features.
